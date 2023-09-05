@@ -1,0 +1,94 @@
+/Users/youjing/Library/Java/JavaVirtualMachines/corretto-11.0.17/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=58279:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/youjing/Desktop/PART1/out/production/PART1 soccer.Driver
+Team players:
+
+Thiago Alcantara
+Roberto Firmino
+Jordan Henderson
+Nathaniel Phillips
+Adrian Williams
+Alisson Becker
+Virgil Disk
+Joe Gomez
+James Milner
+Kostas Arnold
+Naby Keita
+Stefan Bajcetic
+
+-------------------------------
+Starting Lineup:
+
+Nathaniel Phillips, Position: DEFENDER
+Virgil Disk, Position: DEFENDER
+Roberto Firmino, Position: FORWARD
+Adrian Williams, Position: GOALKEEPER
+Thiago Alcantara, Position: MIDFIELDER
+Jordan Henderson, Position: MIDFIELDER
+James Milner, Position: MIDFIELDER
+
+-------------------------------
+Updated team players after adding and deleting players:
+
+Thiago Alcantara
+Roberto Firmino
+Nathaniel Phillips
+Adrian Williams
+Alisson Becker
+Virgil Disk
+Joe Gomez
+James Milner
+Kostas Arnold
+Curtis Jones
+Naby Keita
+Alex Chamberlain
+Stefan Bajcetic
+
+-------------------------------
+Updated team players after sorting by last name:
+
+Thiago Alcantara, Jersey number: 19
+Kostas Arnold, Jersey number: 5
+Stefan Bajcetic, Jersey number: 11
+Alisson Becker, Jersey number: 10
+Alex Chamberlain, Jersey number: 12
+Virgil Disk, Jersey number: 13
+Roberto Firmino, Jersey number: 17
+Joe Gomez, Jersey number: 1
+Curtis Jones, Jersey number: 8
+Naby Keita, Jersey number: 15
+James Milner, Jersey number: 18
+Nathaniel Phillips, Jersey number: 9
+Adrian Williams, Jersey number: 12
+
+
+-------------------------------
+Updated team players after sorting by position:
+
+Adrian Williams, Jersey number: 12, Position: GOALKEEPER
+Virgil Disk, Jersey number: 13, Position: DEFENDER
+Nathaniel Phillips, Jersey number: 9, Position: DEFENDER
+Thiago Alcantara, Jersey number: 19, Position: MIDFIELDER
+Jordan Henderson, Jersey number: 2, Position: MIDFIELDER
+James Milner, Jersey number: 18, Position: MIDFIELDER
+Roberto Firmino, Jersey number: 17, Position: FORWARD
+
+
+-------------------------------
+Updated team players after sorting by skill level.
+Players with the same skill level are presented by last name alphabetically:
+
+Thiago Alcantara, Skill level: 5
+Roberto Firmino, Skill level: 5
+Nathaniel Phillips, Skill level: 5
+Adrian Williams, Skill level: 5
+Alisson Becker, Skill level: 4
+Virgil Disk, Skill level: 4
+Joe Gomez, Skill level: 4
+James Milner, Skill level: 4
+Kostas Arnold, Skill level: 3
+Curtis Jones, Skill level: 3
+Naby Keita, Skill level: 3
+Alex Chamberlain, Skill level: 2
+Stefan Bajcetic, Skill level: 1
+
+
+Process finished with exit code 0
